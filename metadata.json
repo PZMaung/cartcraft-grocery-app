@@ -1,0 +1,6 @@
+{
+  "name": "CartCraft Grocery List",
+  "description": "Never forget an item while grocery shopping. Instant capture with custom notes, aisle-by-aisle organization, pantry staples, and in-store shopping mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
